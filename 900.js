@@ -51,7 +51,12 @@ function start(){
     })
 }
 
-start()
+!(async () => {
+    start()
+})()
+    .catch((e) => $.logErr(e))
+    .finally(() => $.done())
+
  /**
  * 休眠
  * @param time    休眠时间，单位秒
