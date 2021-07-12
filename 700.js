@@ -51,6 +51,7 @@ function start(){
     })
 }
 
+start()
  /**
  * 休眠
  * @param time    休眠时间，单位秒
