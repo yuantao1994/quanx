@@ -1,0 +1,10 @@
+{
+    "name": "ht task",
+    "description": "not",
+      "task":[
+          "59 59 9 * * * https://raw.githubusercontent.com/yuantao1994/quanx/main/900.js, tag=900 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png",
+          "59 59 9 * * * https://raw.githubusercontent.com/yuantao1994/quanx/main/850.js, tag=850 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png",
+          "59 59 9 * * * https://raw.githubusercontent.com/yuantao1994/quanx/main/800.js, tag=800 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png",
+          "59 59 9 * * * https://raw.githubusercontent.com/yuantao1994/quanx/main/700.js, tag=700 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png",
+      ]
+  }
