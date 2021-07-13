@@ -1,6 +1,6 @@
 {
-    "name": "ht task",
-    "description": "not",
+    "name": "ht  50 task",
+    "description": " 223",
       "task":[
           "59 59 23 * * * https://raw.githubusercontent.com/yuantao1994/quanx/main/50off/num1.js, tag=num2 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png",
           "59 59 23 * * * https://raw.githubusercontent.com/yuantao1994/quanx/50off/num2.js, tag=num1 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png"
