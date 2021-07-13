@@ -50,12 +50,8 @@ function start(){
         init()
     })
 }
+ $.msg($.name, '', `msgtest`);
 
-!(async () => {
-    start()
-})()
-    .catch((e) => $.logErr(e))
-    .finally(() => $.done())
 
 
  /**
