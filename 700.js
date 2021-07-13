@@ -50,6 +50,7 @@ function start(){
         init()
     })
 }
+const $ = new Env('京东汽车');
  $.msg($.name, '', `msgtest`);
 
 
