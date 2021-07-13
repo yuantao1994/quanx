@@ -52,7 +52,7 @@ function start(){
 }
 
 const $ = new Env('京东汽车');
-$.msg($.name, '', `msgtest`);
+$.msg($.name, '2021-04-21 0点已停止运营', `请禁用或删除脚本(jd_speed.js)`);
 
 
 
