@@ -51,11 +51,11 @@ function start(){
     })
 }
 
-const $ = new Env('京东汽车');
-
-const notify = $.isNode() ? require("./sendNotify") : "";
-$.msg($.name, '2021-04-21 0点已停止运营', `请禁用或删除脚本(jd_speed.js)`);
-
+!(async () => {
+    start()
+})()
+    .catch((e) => $.logErr(e))
+    .finally(() => $.done())
 
 
  /**
