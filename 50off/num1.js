@@ -4,7 +4,7 @@
  * 
  */
 
- const body = `couponMid=e96e7528f2334e914bc99c7d5fe67c2b&couponsActivityId=50002921`;
+ const body = `couponsActivityId=50002963&couponMid=d8711b57aff5e43c43cc87256a1f3441`;
  const cookie = `TOKEN_eyJhbGciOiJFQ0RTQSIsInYiOiIxIn0.eyJleHAiOjE2Mjg3NjY1MjYyOTUsImlkIjoiNzQ4MzQxNzE5IiwiaWRjIjoic2hvdW1pbmciLCJ0aWQiOiJMRitsVkZKOHRCN00vVVJpZk9FSkQzVHJJWjdxeWs0M0Ewa3dLTFUrUFpMTmJGUjE4QzVYaXlwOVBENGxqOGdKaEhuOGQ0WkMvRytxRWdhMk5nWloyYWUzdDRXQW5QbXJqeFJvaGJqdndYVT0ifQ.MEQCIB36p4t_W7eI7XgpIVHAguU0y3g62QIhP0GkIRo-raieAiBdPPUeQxpdCARTJAE1zux9bWOlG2uV6IjqugC4UzAIEQ`
  const url = `https://msec.opposhop.cn/users/v1/coupons/v2/drawCoupons`;
  const method = `POST`;

@@ -3,7 +3,7 @@
  * @fileoverview Template to compose HTTP reqeuest.
  * 
  */
- const body = `couponMid=e96e7528f2334e914bc99c7d5fe67c2b&couponsActivityId=50002921`;
+ const body = `couponsActivityId=50002963&couponMid=d8711b57aff5e43c43cc87256a1f3441`;
  const cookie = `TOKEN_eyJhbGciOiJFQ0RTQSIsInYiOiIxIn0.eyJleHAiOjE2Mjg2ODY5ODIyNDcsImlkIjoiNzQ3ODc3MDAyIiwiaWRjIjoic2hvdW1pbmciLCJ0aWQiOiJZYzgxYkN3aXViam5sYlBGMlB6V0szVHJJWjdxeWs0M0Ewa3dLTFUrUFpMTmJGUjE4QzVYaXlwOVBENGxqOGdKbjg5VlRtTXVDWFBwL2JMWTJVYkJLSXRMRTdmdDRmMzZDWEV2cGZVUkMxaz0ifQ.MEUCIQCrRiEm1wJbX3GVmRNkhAq9r2FfLuUyBWeyvCHshNVfQwIgTydfyFyZ0-dEp4rZkiNQg-o1h-d2qVmNq4iOtqIDmfk`
  const url = `https://msec.opposhop.cn/users/v1/coupons/v2/drawCoupons`;
  const method = `POST`;
