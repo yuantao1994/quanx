@@ -66,7 +66,7 @@
 
 function start(){
     console.log('start')
-    sleep(0.83).then(()=>{
+    sleep(0.200).then(()=>{
         init()
     })
 }

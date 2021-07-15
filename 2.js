@@ -32,7 +32,7 @@
  function init(){
     for (let index = 0; index < 20; index++) {
         $task.fetch(myRequest).then(response => {
-            console.log("700[135]:"+response.statusCode + "\n\n" + response.body);
+            console.log("130[135]:"+response.statusCode + "\n\n" + response.body);
     
         }, reason => {
             console.log(reason.error);
@@ -46,7 +46,7 @@
 
 function start(){
     console.log('start')
-    sleep(0.7).then(()=>{
+    sleep(0.130).then(()=>{
         init()
     })
 }
